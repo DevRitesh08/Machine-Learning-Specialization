@@ -401,5 +401,5 @@ plt.show()
 - ![img_72.png](img_72.png)
 - ![img_73.png](img_73.png)
 
-
-
+## Feature Scaling
+- 
